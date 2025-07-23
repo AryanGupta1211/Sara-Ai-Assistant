@@ -1,0 +1,13 @@
+opencv-python
+python-dotenv
+groq
+langgraph
+langchain-groq
+pydub
+SpeechRecognition
+pyaudio
+elevenlabs
+gtts
+gradio
+
+-e .
